@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to the official repository of
+### PSG-TI VLSI and Embedded Design Automation (VEDA) Laboratory
+Department of ECE,
+PSG College of Technology,
+Coimbatore. 
+
+Read our first article here:
+
 <!--
 **veda-lab-ece/veda-lab-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
