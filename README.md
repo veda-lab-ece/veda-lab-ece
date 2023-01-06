@@ -7,6 +7,8 @@ PSG College of Technology,
 Coimbatore. 
 
 Read our first article here:
+https://medium.com/@19l139_27476/running-multiple-spice-simulations-in-parallel-using-python-aa06e481a028
+
 
 <!--
 **veda-lab-ece/veda-lab-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
